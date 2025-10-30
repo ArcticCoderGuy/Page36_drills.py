@@ -3,5 +3,5 @@
 
 names = ["Tesla", "BYD", "Nissan", "Chevrolet", "BMW"]
 
-print(names[0:4]) # <class "list">
+print(names[0]) # <class "list">
 
