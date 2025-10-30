@@ -3,5 +3,5 @@
 
 names = ["Tesla", "BYD", "Nissan", "Chevrolet", "BMW"]
 
-print("Start", names)
+print(len(names)) # <class "list">
 
