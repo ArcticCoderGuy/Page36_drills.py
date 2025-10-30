@@ -3,5 +3,7 @@
 
 names = ["Tesla", "BYD", "Nissan", "Chevrolet", "BMW"]
 
-print(names[0]) # <class "list">
+for n in names:
+
+ print("-", n.title()) # <class "list">
 
